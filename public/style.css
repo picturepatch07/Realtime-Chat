@@ -38,7 +38,8 @@ section.chat__section {
 
 .message__area {
     height: 500px;
-    padding: 16px;
+    padding: 22px;
+    margin: 22px;
     display: flex;
     flex-direction: column;
     overflow-y: auto;
@@ -48,7 +49,7 @@ section.chat__section {
 textarea {
     width: 100%;
     border: none;
-    padding: 20px;
+    padding: 10px;
     font-size: 16px;
     outline: none;
     background: #FBFBFB;
